@@ -22,3 +22,6 @@ Etapa 3:
 - AWS Lambda
 - O AWS Lambda permite executar código sem precisar gerenciar servidores, reduzindo custos e automatizando tarefas repetitivas.
 - Pagamento apenas pelo tempo de execução do código, sem necessidade de manter servidores 24/7 e ajusta automaticamente a execução conforme a demanda, garantindo performance mesmo em picos.
+
+# CONCLUSÂO
+A implementação das soluções Amazon EC2, Amazon S3 e AWS Lambda permite à Abstergo Industries modernizar sua infraestrutura de TI de forma eficiente e econômica.Os serviços oferecem escalabilidade, automação, segurança e redução de custos, garantindo suporte às operações críticas da indústria farmacêutica e permitindo que a empresa concentre recursos em inovação e pesquisa
